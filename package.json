@@ -1,0 +1,13 @@
+{
+  "name": "auth-6157040",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "acastellon <arseniocastellon@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/."
+  },  
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
